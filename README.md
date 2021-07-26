@@ -5,7 +5,7 @@ code used in the backend excluding commercial portions
 initially its just a simple plate solving server
 
 # later
-you can launch a dedicated platesolved instnace
+you can launch a dedicated platesolved instance
 
 # files
 
