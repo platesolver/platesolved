@@ -34,4 +34,4 @@ via api ?
 
 # registration
 
-yes, reserve your account, https://platesolver.com/ form broken now. 
+yes, reserve your account, https://dev.platesolver.com/ 
